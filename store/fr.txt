@@ -1,11 +1,11 @@
 Titre (maximum 50 caractères):
 Little Robot Adventure
 
-Brève description (max. 80 caractères):
-Little Robot se lance dans une grande aventure et a besoin de votre aide! Pourrez-vous le guider à travers ce nouveau monde étrange? 🕹️🤖
+Brève description (max. 80 caractères) :
+Little Robot débutte une grande aventure. Guidez-le dans ce monde étrange ! 🕹️🤖
 
 
-Description complète (maximum 4000 caractères):
+Description complète (maximum 4000 caractères) :
 Little Robot Adventure est un jeu de plateforme 2D classique, en maîtrisez-vous la technique ?
 
 Né dans un laboratoire obscur, Little Robot doit se frayer un chemin dans ce nouveau monde étrange.
